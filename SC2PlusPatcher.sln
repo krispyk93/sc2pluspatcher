@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC2PlusPatcher", "SC2PlusPatcher\SC2PlusPatcher.csproj", "{943CCF72-1A96-4CB9-BC13-7C1140A6A30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943CCF72-1A96-4CB9-BC13-7C1140A6A30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943CCF72-1A96-4CB9-BC13-7C1140A6A30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943CCF72-1A96-4CB9-BC13-7C1140A6A30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943CCF72-1A96-4CB9-BC13-7C1140A6A30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52F9C64-C6DB-4F5B-9919-2A0CA98C2A4F}
+	EndGlobalSection
+EndGlobal
